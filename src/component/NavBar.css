@@ -1,0 +1,11 @@
+.nav {
+  box-shadow: 8px 109px 322px 144px rgb(245, 247, 247);
+  -webkit-box-shadow: 8px 109px 322px 144px rgba(235, 228, 228, 0.15);
+  -moz-box-shadow: 8px 109px 322px 144px rgba(235, 228, 228, 0.15);
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: center;
+  height: 30px;
+  width: auto;
+}

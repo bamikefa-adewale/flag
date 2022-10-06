@@ -1,0 +1,28 @@
+:root {
+  --Dark-Blue: hsl(209, 23%, 22%);
+  --Very-Dark-Blue: hsl(207, 26%, 17%);
+  --Very-Dark-Bluehsl: (200, 15%, 8%);
+  --Dark-Gray: hsl(0, 0%, 52%);
+  --Very-Light-Gray: hsl(0, 0%, 98%);
+  --White: hsl(0, 0%, 100%);
+}
+.flog {
+}
+.country {
+  margin-top: 20px;
+}
+
+.country-deatails {
+  box-shadow: 8px 109px 322px 144px rgb(245, 247, 247);
+  -webkit-box-shadow: 8px 109px 322px 144px rgba(235, 228, 228, 0.15);
+  -moz-box-shadow: 8px 109px 322px 144px rgba(235, 228, 228, 0.15);
+  font-size: 16px;
+  padding: 20px;
+}
+
+.country-deatails h4 {
+  margin: 16px;
+}
+.text {
+  font-size: 16px;
+}
